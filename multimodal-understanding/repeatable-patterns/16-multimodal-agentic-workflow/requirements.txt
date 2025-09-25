@@ -28,7 +28,11 @@ sphinx==8.1.3
 docutils>=0.20,<0.22
 Events
 fitz
-PyMuPDF
+#PyMuPDF
 frontend
+pdf2image
+poppler-utils
+pdfplumber
 mkl
 pydub
+tools
